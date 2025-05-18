@@ -10,7 +10,7 @@ from keyboards import main_menu, get_submenu, menus, start_keyboard
 # === Конфигурация ===
 BOT_TOKEN = "7657081669:AAGj_PB37i0XdNxPxIrGPSEq43CPAtEUUto"
 # Auth token
-GIGACHAT_TOKEN = "MjQxNjA5ZWYtZDhiZS00Y2Q3LTgxZDQtNzMzNDBmNmQ5ZWQ2OjRhOGVkMjVjLWM5ZjEtNGEzYS04OWYxLTNhNTNiMTEwNGExYQ=="
+GIGACHAT_TOKEN = "ODVlZjU1NmUtZTJhNi00YTEwLTg3MGEtMWJlYjdjMWVhZDRiOmU1ZTE4YmZiLTI2MzYtNDkzNC04ZDk4LWE4OGYxODY0ZWQ0NQ=="
 
 # Инициализация бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
